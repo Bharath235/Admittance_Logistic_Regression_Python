@@ -1,0 +1,2 @@
+# Admittance_Logistic_Regression_Python
+Admittance logistic regression model
